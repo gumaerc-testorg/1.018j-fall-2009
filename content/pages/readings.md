@@ -1,6 +1,6 @@
 ---
+content_type: page
 title: Readings
-type: page
 uid: d90a1242-fb9e-b63e-8aeb-4930bc5033bb
 ---
 

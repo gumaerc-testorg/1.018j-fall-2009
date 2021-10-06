@@ -1,4 +1,5 @@
 ---
+content_type: resource
 description: Example student paper on investigation of the effects of stratospheric
   sulfur injection on terrestrial autotroph productivity via experimentation with
   diffuse radiation controlled greenhouses.
@@ -8,6 +9,5 @@ file_type: application/pdf
 resourcetype: Document
 title: Investigation of the effects of stratospheric sulfur injection on terrestrial
   autotroph productivity via experimentation with diffuse radiation controlled greenhouses
-type: resource
 uid: 21e0efc7-9947-af46-ee3f-3401155afdcc
 ---

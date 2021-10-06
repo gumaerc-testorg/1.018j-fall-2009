@@ -1,6 +1,6 @@
 ---
+content_type: page
 title: Exams
-type: page
 uid: 88eb26e4-aaf6-0f90-f0bc-a834bccbd0ab
 ---
 

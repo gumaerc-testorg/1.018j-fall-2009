@@ -1,6 +1,6 @@
 ---
+content_type: page
 title: Projects
-type: page
 uid: f39de61e-95b9-aef6-a154-c86d2f1078af
 ---
 
