@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: Quiz on ecology and the Earth as an integrated dynamic system.
-file: /media/courses/1-018j-ecology-i-the-earth-system-fall-2009/293cfab7623c00559cf7b021bfdd5b9f_MIT1_018JF09_study_3.pdf
-file_location: /coursemedia/1-018j-ecology-i-the-earth-system-fall-2009/293cfab7623c00559cf7b021bfdd5b9f_MIT1_018JF09_study_3.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-018j-ecology-i-the-earth-system-fall-2009/293cfab7623c00559cf7b021bfdd5b9f_MIT1_018JF09_study_3.pdf
 file_type: application/pdf
 resourcetype: Document
 title: Quiz 3

@@ -2,8 +2,7 @@
 content_type: resource
 description: Lecture notes with a review of redox chemistry, oxidation state or number,
   reduction and oxidation reactions, and thermodynamics.
-file: /media/courses/1-018j-ecology-i-the-earth-system-fall-2009/dde8c3fc99c70f0a60c935480cd607cb_MIT1_018JF09_lec03_Redox.pdf
-file_location: /coursemedia/1-018j-ecology-i-the-earth-system-fall-2009/dde8c3fc99c70f0a60c935480cd607cb_MIT1_018JF09_lec03_Redox.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-018j-ecology-i-the-earth-system-fall-2009/dde8c3fc99c70f0a60c935480cd607cb_MIT1_018JF09_lec03_Redox.pdf
 file_type: application/pdf
 resourcetype: Document
 title: Redox Chemistry Review

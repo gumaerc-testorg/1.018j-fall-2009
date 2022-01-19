@@ -6,17 +6,185 @@ uid: 1ba96e04-0308-c376-43d1-8d84d5353e2b
 
 Notes are available for selected lectures below.
 
-| LEC # | TOPICS | LECTURE NOTES |
-| --- | --- | --- |
-| 1 | Introduction: what is ecology? | ([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec01)) |
-| 3 | How to be alive/thermodynamics of life |  {{< br >}}{{< br >}} ([PDF - 1.3MB]({{< baseurl >}}/resources/mit1_018jf09_lec03)) {{< br >}}{{< br >}} Redox handout ([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec03_redox)) {{< br >}}{{< br >}} Photosynthesis handout ([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec03_photo)) {{< br >}}{{< br >}}  |
-| 4 | CI lecture: getting started with the term project | ([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec04)) (Courtesy of Harlan Breindel. Used with permission.) |
-| 5-6 | Primary productivity I and II | ([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec05)) |
-| 7 | Biogeochemical cycles | ([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec07)) |
-| 10 | Limiting factors and Redfield | ([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec10)) |
-| 11 | Ecosystem experiments/geoengineering | ([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec11)) |
-| 12 | Secondary productivity/food webs | ([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec12)) |
-| 13 | Population growth |  {{< br >}}{{< br >}} Introduction ([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec13)) {{< br >}}{{< br >}} Slides ([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec13_slides)) {{< br >}}{{< br >}}  |
-| 14 | Chemostats/life tables |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec14)) {{< br >}}{{< br >}} Chemostat handout ([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec14_chemo)) {{< br >}}{{< br >}}  |
-| 17 | Competition and the niche | ([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec17)) |
-| 18 | Predation/symbiosis/mutualism | ([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec18))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: what is ecology?
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec01))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+How to be alive/thermodynamics of life
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF - 1.3MB]({{< baseurl >}}/resources/mit1_018jf09_lec03))
+
+Redox handout ([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec03_redox))
+
+Photosynthesis handout ([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec03_photo))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+CI lecture: getting started with the term project
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec04)) (Courtesy of Harlan Breindel. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-6
+{{< tdclose >}}
+{{< tdopen >}}
+Primary productivity I and II
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec05))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Biogeochemical cycles
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec07))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Limiting factors and Redfield
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Ecosystem experiments/geoengineering
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec11))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Secondary productivity/food webs
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec12))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Population growth
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction ([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec13))
+
+Slides ([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec13_slides))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Chemostats/life tables
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec14))
+
+Chemostat handout ([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec14_chemo))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Competition and the niche
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec17))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Predation/symbiosis/mutualism
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit1_018jf09_lec18))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on chemostat theory.
-file: /media/courses/1-018j-ecology-i-the-earth-system-fall-2009/46984021a8ccf3cef0d5f77e4677dfda_MIT1_018JF09_Lec14_chemo.pdf
-file_location: /coursemedia/1-018j-ecology-i-the-earth-system-fall-2009/46984021a8ccf3cef0d5f77e4677dfda_MIT1_018JF09_Lec14_chemo.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-018j-ecology-i-the-earth-system-fall-2009/46984021a8ccf3cef0d5f77e4677dfda_MIT1_018JF09_Lec14_chemo.pdf
 file_type: application/pdf
 resourcetype: Document
 title: Population Growth in Chemostats

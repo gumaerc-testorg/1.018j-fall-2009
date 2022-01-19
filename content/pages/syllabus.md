@@ -31,12 +31,72 @@ Outlines and specific reading assignments will be made available for each cluste
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES | NOTES |
-| --- | --- | --- |
-| Quizzes | 50% | There will be 3 quizzes throughout the semester. The third quiz will be cumulative. |
-| Term project | 40% | Note that Communications Intensive grades contribute to this. |
-| Homework | 10% | The problem sets will rely on readings as well as lecture notes. You can work in groups of 3 if you so choose, and submit them as a group. |
-| Extra credit | &nbsp; | There may be extra credit questions on the exams as well as extra credit activities. These count above and beyond the normal curve of the class (in other words, you can get an A without extra credit). Extra credit factors into a grade only when a student is on the borderline between two grades. It can tip the balance. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+{{< thopen >}}
+NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+{{< tdopen >}}
+There will be 3 quizzes throughout the semester. The third quiz will be cumulative.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Term project
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+{{< tdopen >}}
+Note that Communications Intensive grades contribute to this.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+{{< tdopen >}}
+The problem sets will rely on readings as well as lecture notes. You can work in groups of 3 if you so choose, and submit them as a group.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Extra credit
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+There may be extra credit questions on the exams as well as extra credit activities. These count above and beyond the normal curve of the class (in other words, you can get an A without extra credit). Extra credit factors into a grade only when a student is on the borderline between two grades. It can tip the balance.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Expectations
 ------------
