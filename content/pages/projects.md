@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: f39de61e-95b9-aef6-a154-c86d2f1078af
 ---
@@ -7,7 +10,7 @@ uid: f39de61e-95b9-aef6-a154-c86d2f1078af
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 PROJECT COMPONENTS
 {{< thclose >}}
 {{< thopen >}}

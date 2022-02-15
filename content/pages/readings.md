@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: d90a1242-fb9e-b63e-8aeb-4930bc5033bb
 ---
@@ -249,7 +252,7 @@ Bol, Roland, and Christian Pflieger. "Stable Isotope Analysis of the Hair of Mod
 {{< tdopen >}}
 Population growth
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Smil, Vaclav. "How Many Billions to Go?" _Nature_ 401 (1999): 429.
