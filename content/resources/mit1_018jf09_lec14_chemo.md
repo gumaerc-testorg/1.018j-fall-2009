@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1ba96e04-0308-c376-43d1-8d84d5353e2b
 resourcetype: Document
 title: Population Growth in Chemostats
 uid: 46984021-a8cc-f3ce-f0d5-f77e4677dfda

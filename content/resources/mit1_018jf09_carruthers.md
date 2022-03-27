@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d90a1242-fb9e-b63e-8aeb-4930bc5033bb
 resourcetype: Document
 title: Locusts in the Red Sea
 uid: 1671096c-bd17-a400-31ae-914be1e9c847

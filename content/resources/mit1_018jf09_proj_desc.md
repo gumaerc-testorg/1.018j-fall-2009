@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: f39de61e-95b9-aef6-a154-c86d2f1078af
 resourcetype: Document
 title: 'Writing the Project Description of your Term Project Proposal '
 uid: 019aba80-d09c-26f9-9eb9-d36bc86be8c3

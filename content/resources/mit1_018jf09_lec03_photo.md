@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1ba96e04-0308-c376-43d1-8d84d5353e2b
 resourcetype: Document
 title: Overview of Photosynthesis
 uid: 78f4caee-126b-79c5-7142-ba50ca974868

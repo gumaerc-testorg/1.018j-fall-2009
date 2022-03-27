@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: f39de61e-95b9-aef6-a154-c86d2f1078af
 resourcetype: Document
 title: Assessing Excess Carbon Emissions and Soil Toxicity as Unintended Consequences
   in Applying Biochar as a Geoengineering Scheme

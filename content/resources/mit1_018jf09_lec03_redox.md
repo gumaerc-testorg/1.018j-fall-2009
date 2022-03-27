@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1ba96e04-0308-c376-43d1-8d84d5353e2b
 resourcetype: Document
 title: Redox Chemistry Review
 uid: dde8c3fc-99c7-0f0a-60c9-35480cd607cb

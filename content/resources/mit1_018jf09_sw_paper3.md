@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: f39de61e-95b9-aef6-a154-c86d2f1078af
 resourcetype: Document
 title: Investigation of the effects of stratospheric sulfur injection on terrestrial
   autotroph productivity via experimentation with diffuse radiation controlled greenhouses
