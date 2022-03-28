@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: d90a1242-fb9e-b63e-8aeb-4930bc5033bb
 ---
@@ -33,7 +34,7 @@ Introduction: what is ecology?
 {{< tdopen >}}
 
 
-Carruthers, G. T. "Locusts in the Red Sea." _Nature_ 41, no. 1051 (1889): 153. ([PDF]({{< baseurl >}}/resources/mit1_018jf09_carruthers))
+Carruthers, G. T. "Locusts in the Red Sea." _Nature_ 41, no. 1051 (1889): 153. ({{< resource_link 1671096c-bd17-a400-31ae-914be1e9c847 "PDF" >}})
 
 Vernadskii, V. I. "The Biosphere." _Biosfera_. Leningrad, 1926. Translated by Lawrence R. Pomeroy, University of Georgia.
 
