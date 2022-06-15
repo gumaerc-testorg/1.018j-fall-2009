@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides instructions for the term project of the course,
+  grading criteria, due dates, and examples of student work.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
-parent_uid: null
 title: Projects
 uid: f39de61e-95b9-aef6-a154-c86d2f1078af
 ---
@@ -126,9 +127,9 @@ Lec #22-25
 
 {{< tableclose >}}
 
-Term project instructions ({{< resource_link aaa1cf12-a567-d4e0-9dee-b98f7900990e "PDF" >}})
+Term project instructions ({{% resource_link aaa1cf12-a567-d4e0-9dee-b98f7900990e "PDF" %}})
 
-Project description instructions ({{< resource_link 019aba80-d09c-26f9-9eb9-d36bc86be8c3 "PDF" >}})
+Project description instructions ({{% resource_link 019aba80-d09c-26f9-9eb9-d36bc86be8c3 "PDF" %}})
 
 All student work is used with permission.
 
@@ -150,7 +151,7 @@ FILES
 A proposal for limited implementation of a sunshade to evaluate the effects of albedo modification on global biogeochemical cycles
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link c1d72a3c-db6c-fcbf-ce43-fadb7eb56798 "PDF" >}})
+({{% resource_link c1d72a3c-db6c-fcbf-ce43-fadb7eb56798 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +160,7 @@ A proposal for limited implementation of a sunshade to evaluate the effects of a
 Testing the unintended consequences of lignin reduction in genetically modified trees on trophic interactions
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link c67b6ae9-5d37-9586-88d8-669187367519 "PDF" >}})
+({{% resource_link c67b6ae9-5d37-9586-88d8-669187367519 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +169,7 @@ Testing the unintended consequences of lignin reduction in genetically modified 
 Investigation of the effects of stratospheric sulfur injection on terrestrial autotroph productivity via experimentation with diffuse radiation controlled greenhouses
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 21e0efc7-9947-af46-ee3f-3401155afdcc "PDF" >}})
+({{% resource_link 21e0efc7-9947-af46-ee3f-3401155afdcc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +178,7 @@ Investigation of the effects of stratospheric sulfur injection on terrestrial au
 The unintended consequences of sulfate aerosols in the troposphere and lower stratosphere
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 3c25717d-56a0-7fda-2127-e723dacf7f77 "PDF" >}})
+({{% resource_link 3c25717d-56a0-7fda-2127-e723dacf7f77 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +187,7 @@ The unintended consequences of sulfate aerosols in the troposphere and lower str
 Assessing excess carbon emissions and soil toxicity as unintended consequences in applying biochar as a geoengineering scheme
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 24cd7892-8a1e-dc23-27e9-ca2f57d8fc1b "PDF" >}})
+({{% resource_link 24cd7892-8a1e-dc23-27e9-ca2f57d8fc1b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

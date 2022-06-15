@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, textbooks
+  and readings, recitations, class handouts, grading, expectations, academic honesty,
+  and policy on cheating.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 806ad0db-4610-8abb-bc72-7b4204430769
 ---
@@ -120,4 +122,4 @@ Although MIT does not have an honor code, in 1.018 we function as though it does
 Policy on cheating
 ------------------
 
-If a student is caught turning in a paper or homework that was written by someone else, or copying text from sources without referencing them, or cheating on an exam, he or she will be given an F on the assignment, and likely be reported to the Committee on Discipline. If you have questions regarding what constitutes the appropriate use of sources and plagiarism, you should consult with a member of the course staff. _Academic Integrity at the Massachusetts Institute of Technology_ is a useful handbook for understanding what constitutes violations of academic integrity, for citing sources, and for avoiding plagiarism. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/academicintegrity/handbook/handbook.pdf))
+If a student is caught turning in a paper or homework that was written by someone else, or copying text from sources without referencing them, or cheating on an exam, he or she will be given an F on the assignment, and likely be reported to the Committee on Discipline. If you have questions regarding what constitutes the appropriate use of sources and plagiarism, you should consult with a member of the course staff. _Academic Integrity at the Massachusetts Institute of Technology_ is a useful handbook for understanding what constitutes violations of academic integrity, for citing sources, and for avoiding plagiarism. ([PDF](http://web.mit.edu/academicintegrity/handbook/handbook.pdf))

@@ -1,9 +1,9 @@
 ---
 content_type: page
+description: This section provides the problem sets for the course along with solutions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: dae87800-e883-5c70-2766-886f4e8eee01
 ---
@@ -29,10 +29,10 @@ SOLUTIONS
 Problem set 1
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 192edd0b-7f19-d638-a717-be72d28aa3e2 "PDF" >}})
+({{% resource_link 192edd0b-7f19-d638-a717-be72d28aa3e2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 747e85c4-6270-700c-3583-8964a3ddc015 "PDF" >}})
+({{% resource_link 747e85c4-6270-700c-3583-8964a3ddc015 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -41,10 +41,10 @@ Problem set 1
 Problem set 2
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 1a442d21-3067-95ca-1b8b-b4ebcc244aab "PDF - 3.1MB" >}})
+({{% resource_link 1a442d21-3067-95ca-1b8b-b4ebcc244aab "PDF - 3.1MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 7858a402-a585-f23c-a091-c8c148b799cd "PDF" >}})
+({{% resource_link 7858a402-a585-f23c-a091-c8c148b799cd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -53,10 +53,10 @@ Problem set 2
 Problem set 3
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link d91196c2-b3ac-1d1b-4bfd-bc380cb641c2 "PDF" >}})
+({{% resource_link d91196c2-b3ac-1d1b-4bfd-bc380cb641c2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link a452316e-c4d3-1f35-8505-42765afb0ba1 "PDF" >}})
+({{% resource_link a452316e-c4d3-1f35-8505-42765afb0ba1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
