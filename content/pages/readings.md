@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the readings assigned for each session
+  of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: d90a1242-fb9e-b63e-8aeb-4930bc5033bb
 ---
@@ -30,7 +35,7 @@ Introduction: what is ecology?
 {{< tdopen >}}
 
 
-Carruthers, G. T. "Locusts in the Red Sea." _Nature_ 41, no. 1051 (1889): 153. ([PDF]({{< baseurl >}}/resources/mit1_018jf09_carruthers))
+Carruthers, G. T. "Locusts in the Red Sea." _Nature_ 41, no. 1051 (1889): 153. ({{% resource_link 1671096c-bd17-a400-31ae-914be1e9c847 "PDF" %}})
 
 Vernadskii, V. I. "The Biosphere." _Biosfera_. Leningrad, 1926. Translated by Lawrence R. Pomeroy, University of Georgia.
 
@@ -249,7 +254,7 @@ Bol, Roland, and Christian Pflieger. "Stable Isotope Analysis of the Hair of Mod
 {{< tdopen >}}
 Population growth
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Smil, Vaclav. "How Many Billions to Go?" _Nature_ 401 (1999): 429.

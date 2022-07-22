@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics, term project
+  dates, homework dates, and recitation topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 02e25eb5-bb1c-6d80-9655-069ff702e03e
 ---
@@ -57,7 +61,7 @@ Evolution of Earth and the biosphere
 {{< tdopen >}}
 Homework 1 out
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 MIT libraries
 {{< tdclose >}}
 
@@ -96,7 +100,7 @@ Term project topic back
 {{< tdopen >}}
  
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Literature reviews and TA review of materials
 {{< tdclose >}}
 
@@ -129,7 +133,7 @@ Primary productivity II
 {{< tdopen >}}
 Homework 1 due
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Review for quiz
 {{< tdclose >}}
 
@@ -162,7 +166,7 @@ Global carbon cycle
 {{< tdopen >}}
 Homework 1 back
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Figures and technical writing, TA review
 {{< tdclose >}}
 
@@ -213,7 +217,7 @@ Term project introduction due
 {{< tdopen >}}
  
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 CI: lecture
 {{< tdclose >}}
 
@@ -246,7 +250,7 @@ Term project introduction back
 {{< tdopen >}}
 Homework 2 due
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Review for quiz
 {{< tdclose >}}
 
@@ -279,7 +283,7 @@ Term project proposal due
 {{< tdopen >}}
 Homework 2 back
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Breindel: revising a document
 {{< tdclose >}}
 
@@ -312,7 +316,7 @@ Competition and the niche
 {{< tdopen >}}
  
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Breindel: structuring and oral presentation
 {{< tdclose >}}
 
@@ -345,7 +349,7 @@ Biogeography
 {{< tdopen >}}
  
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Review for quiz
 {{< tdclose >}}
 
@@ -402,7 +406,7 @@ Term project complete due
 {{< tdopen >}}
 Homework 3 back
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Project presentations
 {{< tdclose >}}
 
