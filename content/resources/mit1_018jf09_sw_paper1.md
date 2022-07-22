@@ -6,6 +6,7 @@ file: /courses/1-018j-ecology-i-the-earth-system-fall-2009/c1d72a3cdb6cfcbfce43f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: A proposal for limited implementation of a sunshade to evaluate the effec
 uid: c1d72a3c-db6c-fcbf-ce43-fadb7eb56798
 ---
 Example student research proposal on limited implementation of a sunshade to evaluate the effects of albedo modification on global biogeochemical cycles
-

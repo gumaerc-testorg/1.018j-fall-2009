@@ -6,6 +6,7 @@ file: /courses/1-018j-ecology-i-the-earth-system-fall-2009/a452316ec4d31f3585054
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Problem Set 3 Solutions
 uid: a452316e-c4d3-1f35-8505-42765afb0ba1
 ---
 Solutions to a problem set on ecology and the Earth as an integrated dynamic system.
-

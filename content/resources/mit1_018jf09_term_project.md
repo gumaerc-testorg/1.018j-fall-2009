@@ -6,6 +6,7 @@ file: /courses/1-018j-ecology-i-the-earth-system-fall-2009/aaa1cf12a567d4e09deeb
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Term Project on Geoengineering
 uid: aaa1cf12-a567-d4e0-9dee-b98f7900990e
 ---
 Instructions for a research proposal describing a pilot project for assessing an Earth system-scale geoengineering technology.
-

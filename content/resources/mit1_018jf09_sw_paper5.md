@@ -6,6 +6,7 @@ file: /courses/1-018j-ecology-i-the-earth-system-fall-2009/24cd78928a1edc2327e9c
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Assessing Excess Carbon Emissions and Soil Toxicity as Unintended Consequ
 uid: 24cd7892-8a1e-dc23-27e9-ca2f57d8fc1b
 ---
 Example student paper on assessing excess carbon emissions and soil toxicity as unintended consequences in applying biochar as a geoengineering scheme.
-

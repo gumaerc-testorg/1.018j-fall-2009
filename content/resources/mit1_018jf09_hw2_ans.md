@@ -6,6 +6,7 @@ file: /courses/1-018j-ecology-i-the-earth-system-fall-2009/7858a402a585f23ca091c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Problem Set 2 Solutions
 uid: 7858a402-a585-f23c-a091-c8c148b799cd
 ---
 Solutions to a problem set on ecology and the Earth as an integrated dynamic system.
-

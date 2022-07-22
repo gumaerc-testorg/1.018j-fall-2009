@@ -6,6 +6,7 @@ file: /courses/1-018j-ecology-i-the-earth-system-fall-2009/06db8aa84f9a7c61bcddc
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Quiz 3 Study Guide
 uid: 06db8aa8-4f9a-7c61-bcdd-c7baaf57d895
 ---
 Study guide for a quiz on ecology and the Earth as an integrated dynamic system.
-

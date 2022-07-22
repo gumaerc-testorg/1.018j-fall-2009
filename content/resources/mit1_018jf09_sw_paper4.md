@@ -6,6 +6,7 @@ file: /courses/1-018j-ecology-i-the-earth-system-fall-2009/3c25717d56a07fda2127e
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: The Unintended Consequences of Sulfate Aerosols in the Troposphere and Lo
 uid: 3c25717d-56a0-7fda-2127-e723dacf7f77
 ---
 Example student research proposal on the unintended consequences of sulfate aerosols in the troposphere and lower stratosphere.
-

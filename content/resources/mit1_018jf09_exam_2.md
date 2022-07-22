@@ -6,6 +6,7 @@ file: /courses/1-018j-ecology-i-the-earth-system-fall-2009/982aba2967f5799cf6191
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Quiz #2 Solutions'
 uid: 982aba29-67f5-799c-f619-1eb5f01a9235
 ---
 Solutions to a quiz on ecology and the Earth as an integrated dynamic system.
-

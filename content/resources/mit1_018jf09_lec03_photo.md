@@ -5,6 +5,7 @@ file: /courses/1-018j-ecology-i-the-earth-system-fall-2009/78f4caee126b79c57142b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Overview of Photosynthesis
 uid: 78f4caee-126b-79c5-7142-ba50ca974868
 ---
 Lecture handout with an overview of photosynthesis.
-

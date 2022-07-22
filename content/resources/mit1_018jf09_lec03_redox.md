@@ -6,6 +6,7 @@ file: /courses/1-018j-ecology-i-the-earth-system-fall-2009/dde8c3fc99c70f0a60c93
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Redox Chemistry Review
 uid: dde8c3fc-99c7-0f0a-60c9-35480cd607cb
 ---
 Lecture notes with a review of redox chemistry, oxidation state or number, reduction and oxidation reactions, and thermodynamics.
-

@@ -5,6 +5,7 @@ file: /courses/1-018j-ecology-i-the-earth-system-fall-2009/46984021a8ccf3cef0d5f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Population Growth in Chemostats
 uid: 46984021-a8cc-f3ce-f0d5-f77e4677dfda
 ---
 Lecture handout on chemostat theory.
-

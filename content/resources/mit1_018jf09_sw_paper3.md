@@ -7,6 +7,7 @@ file: /courses/1-018j-ecology-i-the-earth-system-fall-2009/21e0efc79947af46ee3f3
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Investigation of the effects of stratospheric sulfur injection on terrest
 uid: 21e0efc7-9947-af46-ee3f-3401155afdcc
 ---
 Example student paper on investigation of the effects of stratospheric sulfur injection on terrestrial autotroph productivity via experimentation with diffuse radiation controlled greenhouses.
-
