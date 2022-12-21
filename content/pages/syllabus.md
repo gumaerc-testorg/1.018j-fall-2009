@@ -3,12 +3,12 @@ content_type: page
 description: This syllabus section provides information on course meeting times, textbooks
   and readings, recitations, class handouts, grading, expectations, academic honesty,
   and policy on cheating.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 806ad0db-4610-8abb-bc72-7b4204430769
 ---
-
 Course Meeting Times
 --------------------
 
