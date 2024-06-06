@@ -3,6 +3,7 @@ content_type: resource
 description: Example student research proposal on limited implementation of a sunshade
   to evaluate the effects of albedo modification on global biogeochemical cycles
 file: /courses/1-018j-ecology-i-the-earth-system-fall-2009/c1d72a3cdb6cfcbfce43fadb7eb56798_MIT1_018JF09_sw_paper1.pdf
+file_size: 759490
 file_type: application/pdf
 learning_resource_types:
 - Projects

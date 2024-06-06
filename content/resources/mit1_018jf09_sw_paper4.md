@@ -3,6 +3,7 @@ content_type: resource
 description: Example student research proposal on the unintended consequences of sulfate
   aerosols in the troposphere and lower stratosphere.
 file: /courses/1-018j-ecology-i-the-earth-system-fall-2009/3c25717d56a07fda2127e723dacf7f77_MIT1_018JF09_sw_paper4.pdf
+file_size: 399450
 file_type: application/pdf
 learning_resource_types:
 - Projects
