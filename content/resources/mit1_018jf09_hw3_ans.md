@@ -3,6 +3,7 @@ content_type: resource
 description: Solutions to a problem set on ecology and the Earth as an integrated
   dynamic system.
 file: /courses/1-018j-ecology-i-the-earth-system-fall-2009/a452316ec4d31f35850542765afb0ba1_MIT1_018JF09_hw3_ans.pdf
+file_size: 290702
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: Solutions to a quiz on ecology and the Earth as an integrated dynamic
   system.
 file: /courses/1-018j-ecology-i-the-earth-system-fall-2009/2f529c7c35ba9e09c9a54793841a87b6_MIT1_018JF09_exam_3.pdf
+file_size: 330268
 file_type: application/pdf
 learning_resource_types:
 - Exams
