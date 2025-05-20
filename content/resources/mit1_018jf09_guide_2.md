@@ -2,7 +2,7 @@
 content_type: resource
 description: Study guide for a quiz on ecology and the Earth as an integrated dynamic
   system.
-file: /ol-ocw-studio-app/courses/1-018j-ecology-i-the-earth-system-fall-2009/059b560d09451081a3994c3d4cce6602_MIT1_018JF09_guide_2.pdf
+file: /courses/1-018j-ecology-i-the-earth-system-fall-2009/059b560d09451081a3994c3d4cce6602_MIT1_018JF09_guide_2.pdf
 file_size: 157230
 file_type: application/pdf
 learning_resource_types:
