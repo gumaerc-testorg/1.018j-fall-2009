@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on chemostat theory.
-file: /courses/1-018j-ecology-i-the-earth-system-fall-2009/46984021a8ccf3cef0d5f77e4677dfda_MIT1_018JF09_Lec14_chemo.pdf
+file: /ol-ocw-studio-app/courses/1-018j-ecology-i-the-earth-system-fall-2009/46984021a8ccf3cef0d5f77e4677dfda_MIT1_018JF09_Lec14_chemo.pdf
 file_size: 92287
 file_type: application/pdf
 learning_resource_types:
